@@ -5,3 +5,7 @@
 * leren werken met visual studio
 * variablen in c#
 
+## mijn eerste programma in c# met visual studio
+
+demo Hello world
+
